@@ -1,0 +1,49 @@
+body{ 
+  margin:0; 
+  background-color:#fff;
+} 
+#content{
+  margin:15% 31% 0 31%;
+  width:38%;
+}
+.hide{
+  display:none;
+}
+
+a {
+  opacity:1.0;
+  margin:0 2px 2px 0;
+}
+a:hover {
+  opacity:0.75;
+}  
+
+.email, .facebook, .twitter, .google-profile, .delicious, .skype, .picasa, .linkedin{
+  display:inline-block;
+  height:48px;
+  width:48px; 
+}
+.email{
+  background-image:url(../images/email.png);
+}
+.facebook{
+  background-image:url(../images/facebook.png);
+}
+.twitter{
+  background-image:url(../images/twitter.png);
+}
+.google-profile{
+  background-image:url(../images/google.png);
+}
+.delicious{
+  background-image:url(../images/delicious.png);
+}
+.skype{
+  background-image:url(../images/skype.png);
+}
+.picasa{
+  background-image:url(../images/picasa.png);
+}
+.linkedin{
+  background-image:url(../images/linkedin.png);
+}

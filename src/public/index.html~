@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+<head> 
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" /> 
+  <meta name="description" content="Find me on the web via social networks or just the good old e-mail :-)" /> 
+  <title>Igor Moreno</title> 
+  <link href="./css/main.css" media="screen" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript">
+    function recordOutboundLink(link, category, action) {
+      try {
+        var pageTracker=_gat._getTracker("UA-15811746-1");
+        pageTracker._trackEvent(category, action);
+//        setTimeout('document.location = "' + link.href + '"', 100)
+      }catch(err){}
+
+      var delay = 500;
+      var date = new Date();
+      var curDate = null;
+
+      do { curDate = new Date(); } 
+      while(curDate-date < delay);
+
+      return true;
+    }
+  </script>
+</head> 
+<body> 
+ 
+  <div id="content"> 
+    <a href="mailto:&#105;&#103;&#111;&#114;&#109;&#111;&#114;&#101;&#110;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" title="Send me an e-mail" class="email" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">Send me an e-mail</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://www.facebook.com/igormorenosantos" title="Add me on Facebook" class="facebook" onClick="return recordOutboundLink(this, 'Outbound Links', this.href);">
+      <span class="hide">Add me on Facebook</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://twitter.com/igormoreno" title="My tweets" class="twitter" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My tweets</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://www.google.com/profiles/igormoreno" title="My profile at Google" class="google-profile" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My profile at Google</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://delicious.com/igormoreno" title="My bookmarks in Delicious" class="delicious" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My bookmarks in Delicious</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="skype:igormoreno?add" title="My Skype username is igormoreno" class="skype" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My Skype username is igormoreno</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://picasaweb.google.com/igormoreno" title="My photos in Picasa" class="picasa" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My photos in Picasa</span>
+    </a> 
+    <span class="hide"> | </span>
+    <a href="http://www.linkedin.com/in/igormoreno" title="My professional profile in Linked In" class="linkedin" onClick="recordOutboundLink(this, 'Outbound Links', this.href);return false;">
+      <span class="hide">My professional profile in LinkedIn</span>
+    </a> 
+  </div>
+    
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15811746-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
