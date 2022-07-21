@@ -5,9 +5,10 @@ title: About me
 I'm currently a PhD student
 working at the [LuCE research group][]
 at [USI (Lugano, Switzerland)][]
-under the excellent supervision of professor [Matthias Hauswirth][].
+advised by professor [Matthias Hauswirth][].
+At LuCE we do research at the boundary of programming languages and computer science education.
 
-My research focuses on the use of Programming Language Theory techniques to construct sound Notional Machines.
+My research focuses on the use of techniques from Programming Language Theory to construct sound Notional Machines.
 
 I have also done a whole lot of other things in the past,
 most of which are superficially described in my [LinkedIn profile][].
