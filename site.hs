@@ -8,7 +8,7 @@ config = defaultConfiguration { destinationDirectory = "docs" }
 main :: IO ()
 main = hakyllWith config $ do
     -- the file CNAME is used for domain name mapping
-    match (fromList ["favicon.ico", "CNAME"]) $ do
+    match (fromList ["favicon.ico", "CNAME", "robots.txt"]) $ do
         route   idRoute
         compile copyFileCompiler
 
