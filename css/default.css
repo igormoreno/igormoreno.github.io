@@ -1,8 +1,23 @@
+@font-face {
+    font-family: 'Libertine';
+    src: url('../fonts/LinLibertine_R.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libertine';
+    src: url('fonts/LinLibertine_RB.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 body {
   max-width: 750px;
   margin: 40px auto;
 
-  font: 18px Helvetica;
+  font-family: 'Libertine', serif;
+  font-size: 18px;
   line-height: 1.5;
   color: #444;
   background-color: #fff;

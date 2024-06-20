@@ -1,14 +1,19 @@
 {-# LANGUAGE OverloadedStrings #-}
 --------------------------------------------------------------------------------
 import           Hakyll
+import           Control.Monad    (forM_)
 --------------------------------------------------------------------------------
 config :: Configuration
 config = defaultConfiguration { destinationDirectory = "docs" }
 
 main :: IO ()
 main = hakyllWith config $ do
-    -- the file CNAME is used for domain name mapping
-    match (fromList ["favicon.ico", "CNAME", "robots.txt"]) $ do
+    -- Static files
+    forM_ ["favicon.ico"
+          , "CNAME"
+          , "robots.txt"
+          , "fonts/*"
+          , "cv.pdf"] $ \f -> match f $ do
         route   idRoute
         compile copyFileCompiler
 
