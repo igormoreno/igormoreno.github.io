@@ -13,8 +13,8 @@ During my PhD I focused on the use of techniques from programming language theor
 ## What am I up to?
 
 - Expanding our research on sound notional machines
-- Applying our ideas about notional machines and program composition to the design of the textbook ([Composition in Java][pf2-book]) we use in our Programming Fundamentals 2 course.
-- Sprinkling a little bit of Haskell on our Programming Styles course.
+- Applying our ideas about notional machines and program composition to the design of the textbook ([Composition in Java][pf2-book]) we use in our [Programming Fundamentals 2 course][pf2].
+- Sprinkling a little bit of Haskell on our [Programming Styles course][ps].
 
 ## Other
 
