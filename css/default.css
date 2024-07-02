@@ -15,6 +15,7 @@
 body {
   max-width: 750px;
   margin: 40px auto;
+  padding: 0 20px;
 
   font-family: 'Libertine', serif;
   font-size: 18px;
