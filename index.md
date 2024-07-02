@@ -18,7 +18,7 @@ During my PhD I focused on the use of techniques from programming language theor
 
 ## Other
 
-[CV][] | [LinkedIn profile][] | [GitHub profile][] | [Google Scholar profile][]
+[CV][] | [LinkedIn][] | [GitHub][] | [Google Scholar][]
 
 
 
@@ -30,8 +30,8 @@ During my PhD I focused on the use of techniques from programming language theor
 [pf2-book]: https://luce.si.usi.ch/composition-in-java/
 [haskell-videos]: https://4
 [CV]: cv.pdf
-[LinkedIn profile]: https://www.linkedin.com/in/igormoreno/
-[GitHub profile]: https://github.com/igormoreno/
-[Google Scholar profile]: https://scholar.google.ch/citations?user=9ILKPggAAAAJ
-[Programming Fundamentals 2]: https://3
-[Programming Styles]: https://5
+[LinkedIn]: https://www.linkedin.com/in/igormoreno/
+[GitHub]: https://github.com/igormoreno/
+[Google Scholar]: https://scholar.google.ch/citations?user=9ILKPggAAAAJ
+[pf2]: https://search.usi.ch/en/courses/35262260/programming-fundamentals-2
+[ps]: https://search.usi.ch/en/courses/35268148/programming-styles
