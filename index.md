@@ -12,7 +12,7 @@ During my PhD I focused on the use of techniques from programming language theor
 
 ## What am I up to?
 
-- Expanding our research on sound notional machines
+- Expanding our research on [sound notional machines][snm-paper]
 - Applying our ideas about notional machines and program composition to the design of the textbook ([Composition in Java][pf2-book]) we use in our [Programming Fundamentals 2 course][pf2].
 - Sprinkling a little bit of Haskell on our [Programming Styles course][ps].
 
@@ -26,7 +26,7 @@ During my PhD I focused on the use of techniques from programming language theor
 [USI (Lugano, Switzerland)]: https://www.usi.ch/
 [Matthias Hauswirth]: https://www.inf.usi.ch/faculty/hauswirth/
 [dissertation]: https://susi.usi.ch/usi/documents/328768
-[snm-paper]: https://2
+[snm-paper]: https://doi.org/10.31219/osf.io/z2vdr
 [pf2-book]: https://luce.si.usi.ch/composition-in-java/
 [haskell-videos]: https://4
 [CV]: cv.pdf
