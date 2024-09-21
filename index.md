@@ -34,4 +34,4 @@ During my PhD I focused on the use of techniques from programming language theor
 [GitHub]: https://github.com/igormoreno/
 [Google Scholar]: https://scholar.google.ch/citations?user=9ILKPggAAAAJ
 [pf2]: https://search.usi.ch/en/courses/35262260/programming-fundamentals-2
-[ps]: https://search.usi.ch/en/courses/35268148/programming-styles
+[ps]: https://luce.si.usi.ch/programming-styles/
